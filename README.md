@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VisheshJ15/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VisheshJ15/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/VisheshJ15/LeetCode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/VisheshJ15/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VisheshJ15/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/VisheshJ15/LeetCode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/VisheshJ15/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,8 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VisheshJ15/LeetCode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/VisheshJ15/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VisheshJ15/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/VisheshJ15/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
