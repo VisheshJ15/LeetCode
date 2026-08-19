@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VisheshJ15/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VisheshJ15/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/VisheshJ15/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/VisheshJ15/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1512-number-of-good-pairs](https://github.com/VisheshJ15/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/VisheshJ15/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/VisheshJ15/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/VisheshJ15/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/VisheshJ15/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
