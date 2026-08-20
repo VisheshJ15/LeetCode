@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VisheshJ15/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/VisheshJ15/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VisheshJ15/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0981-time-based-key-value-store](https://github.com/VisheshJ15/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1512-number-of-good-pairs](https://github.com/VisheshJ15/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/VisheshJ15/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VisheshJ15/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VisheshJ15/LeetCode/tree/master/0344-reverse-string) |
+| [0981-time-based-key-value-store](https://github.com/VisheshJ15/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VisheshJ15/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/VisheshJ15/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/VisheshJ15/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/VisheshJ15/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VisheshJ15/LeetCode/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/VisheshJ15/LeetCode/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
